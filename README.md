@@ -1,1 +1,1 @@
-Hello, my name is Narukami! I am a hobby programmer that enjoys projects such as bots and automation scripts but I am open to larger projects.
+Hello, I'm Narukami! I am a hobbiest programmer whom is mainly experienced in the python programming language but I also know C++, Java, JavaScript, C#, and more! I enjoy making automation scripts and bots but I am open to larger, more complex projects!
